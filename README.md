@@ -2,6 +2,7 @@
 <img width="3188" height="1202" alt="image" src="https://github.com/user-attachments/assets/b8071930-bf37-49ba-a20f-d4eb861261e4" />
 
 Team Name: Black/White
+
 Team Members: 
     Member 1: Arjun Suresh - Adi Shankara Institute of Engineering & Technology, Kalady
     Member 2: Adwaidh AS - Adi Shankara Institute of Engineering & Technology, Kalady
