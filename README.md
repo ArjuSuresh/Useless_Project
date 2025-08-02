@@ -15,7 +15,7 @@ The Problem the website does not allow you to buy any items when you place your 
 The Solution (that nobody asked for): Our code provides a visual, interactive, and category-driven UI for browsing and selecting products, addressing several key e-commerce UI/UX problems.
 
 [How are you solving it? Keep it fun!]
-Technical DetailsGreat —
+Technical Details:
 
  Problem #1: Product Discovery via Categories
 
