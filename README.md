@@ -6,10 +6,10 @@ Team Members:
 
 Project Description
 
-[Our project is an e-commerce website that has many things to choose and order from.
+Our project is an e-commerce website that has many things to choose and order from.
 The Problem the website does not allow you to buy any items when you place your order.
 
-[What ridiculous problem are you solving?: How to create an engaging, user-friendly online shopping interface.
+[What ridiculous problem are you solving?]: How to create an engaging, user-friendly online shopping interface.
 The Solution (that nobody asked for): Our code provides a visual, interactive, and category-driven UI for browsing and selecting products, addressing several key e-commerce UI/UX problems.
 
 [How are you solving it? Keep it fun!]
