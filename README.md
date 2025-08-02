@@ -27,7 +27,7 @@ The sidebar (.categories) includes a list of clickable <li> elements like:
 </ul>
 
 
-JavaScript (assumed to be added):
+JavaScript:
 
 * When users click a category, JavaScript will:
 
@@ -99,7 +99,7 @@ HTML:
 </div>
 
 
-JavaScript (to be added):
+JavaScript:
 
 * On clicking "Add to Cart", JS will:
 
@@ -164,7 +164,6 @@ Technical Solution:
 }
 
   ```
-
  Animations, shadows, and transitions make UI smooth:
 
 .card {
